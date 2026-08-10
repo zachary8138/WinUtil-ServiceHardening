@@ -1,6 +1,6 @@
 # WinUtil Service Hardening
 
-WinUtil disables the main telemetry service, but related diagnostic and convenience services are often left as **Manual**. This script finishes that cleanup, then verifies critical Windows services were **not** broken.
+WinUtil (and other Windows 11 utilities that remove unncccessary services)  disables the main telemetry service, but related diagnostic and convenience services are often left as **Manual**. This script finishes that cleanup, then verifies critical Windows services were **not** broken.
 
 ## What it does
 
